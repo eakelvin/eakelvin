@@ -4,7 +4,7 @@ I'm Kelvin, and i'm currently working with MERN stack. I enjoy the challenge of 
 
 - 💼 Check my projects https://kelvin-akaba.netlify.app/
 - 🔭 I’m currently working on https://cedirates.com/
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on challenging and interesting projects
 - 📫 How to reach me: akabakelvin@gmail.com
 

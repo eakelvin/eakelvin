@@ -2,7 +2,7 @@
 
 I'm Kelvin, and i'm currently working with MERN stack. I enjoy the challenge of solving problems, optimizing performance and creating seamless user experiences. I absolutely love diving into new projects.
 
-- 💼 Check my projects [https://kelvin-akaba.netlify.app/](https://portfolio-a67k.vercel.app/)
+- 💼 Check my projects https://portfolio-a67k.vercel.app/
 - 🔭 I’m currently working on https://cedirates.com/
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on challenging and interesting projects

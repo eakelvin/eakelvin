@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kelvin, and i'm currently working with MERN stack. I enjoy the challenge of solving problems, optimizing performance and creating seamless user experiences. I absolutely love diving into new projects.
+I build and validate software products from idea to MVP—solving real-world problems in markets others overlook.
 
 - 💼 Check my projects https://kelvinakaba.com/
 - 📫 How to reach me: akabakelvin@gmail.com
